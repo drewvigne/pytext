@@ -1,7 +1,7 @@
 """
 Author: Drew Vigne
 
-Tests the pytext_test.py automatic text notification script.
+Tests the pytext.py automatic text notification script.
 
 Created: 8/29/2020
 """
